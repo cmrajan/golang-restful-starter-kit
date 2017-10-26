@@ -3,9 +3,9 @@ package daos
 import (
 	"testing"
 
-	"github.com/qiangxue/golang-restful-starter-kit/app"
-	"github.com/qiangxue/golang-restful-starter-kit/models"
-	"github.com/qiangxue/golang-restful-starter-kit/testdata"
+	"github.com/DataCloudIntl/dcapi/app"
+	"github.com/DataCloudIntl/dcapi/models"
+	"github.com/DataCloudIntl/dcapi/testdata"
 	"github.com/stretchr/testify/assert"
 )
 

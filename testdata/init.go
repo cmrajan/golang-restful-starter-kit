@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/DataCloudIntl/dcapi/app"
 	"github.com/go-ozzo/ozzo-dbx"
 	_ "github.com/lib/pq" // initialize posgresql for test
-	"github.com/qiangxue/golang-restful-starter-kit/app"
 )
 
 var (
